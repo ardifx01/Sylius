@@ -1,4 +1,4 @@
-{
+`{
     "name": "sylius/admin-bundle",
     "type": "symfony-bundle",
     "description": "Sylius eCommerce administration panel component.",
@@ -46,7 +46,8 @@
         "symfonycasts/dynamic-forms": "^0.1",
         "twig/extra-bundle": "^3.13",
         "twig/twig": "^3.14",
-        "doctrine/dbal": "^4.3"
+        "doctrine/dbal": "^4.3",
+         "symfony/symfony": "^6.1"
 
     },
     "require-dev": {
