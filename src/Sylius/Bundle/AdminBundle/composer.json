@@ -1,4 +1,4 @@
-`{
+{
     "name": "sylius/admin-bundle",
     "type": "symfony-bundle",
     "description": "Sylius eCommerce administration panel component.",
