@@ -45,7 +45,9 @@
         "symfony/webpack-encore-bundle": "^2.2",
         "symfonycasts/dynamic-forms": "^0.1",
         "twig/extra-bundle": "^3.13",
-        "twig/twig": "^3.14"
+        "twig/twig": "^3.14",
+        "doctrine/dbal": "^4.3"
+
     },
     "require-dev": {
         "doctrine/orm": "^2.18 || ^3.3",
